@@ -5,3 +5,5 @@ GIT tracks changes files.
 Creating a new branch is quick and simple.
 no fast forward.
 close is ok?
+OK, here is the Vi command!
+Let's change two files!
