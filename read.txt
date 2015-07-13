@@ -3,3 +3,5 @@ Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 GIT tracks changes files.
 Creating a new branch is quick.
+vi is good command line command~
+Creating a new branch is quick and simple.
