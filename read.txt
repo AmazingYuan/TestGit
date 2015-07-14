@@ -7,3 +7,4 @@ no fast forward.
 close is ok?
 OK, here is the Vi command!
 Let's change two files!
+Everything is fine!
